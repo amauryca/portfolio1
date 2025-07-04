@@ -14,7 +14,7 @@ export default function Hero() {
           className="mb-8"
         >
           <img
-            src="/attached_assets/B1DE3735-9903-45BD-B4DE-E251942B5DC2_1751585885118.jpeg"
+            src="https://ibb.co/kLzBcPz" 
             alt="Amaury Castillo-Acevedo"
             className="w-32 h-32 rounded-full mx-auto shadow-lg object-cover border-4 border-white"
           />
